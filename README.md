@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @invisible
 - 👀 I’m interested in AI,Programming and Entrepreneur
-- 🌱 I’m currently learning Python and Rust programming language
+- 🌱 I’m currently learning Mojo and Rust programming language
 - 💞️ I’m looking to collaborate on Just do it leader
 - 📫 How to reach me know thyself
 - 😄 Pronouns: Fuck system
